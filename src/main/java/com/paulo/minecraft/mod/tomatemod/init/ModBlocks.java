@@ -2,11 +2,10 @@ package com.paulo.minecraft.mod.tomatemod.init;
 
 import com.paulo.minecraft.mod.tomatemod.TomateMod;
 
-import net.minecraft.item.Item;
+import net.minecraft.block.Block;
 import net.minecraftforge.registries.ObjectHolder;
 
 @ObjectHolder(TomateMod.MODID)
-public class ModItems {
-	public static final Item TOMATO = null;
-	public static final Item TOMATO_SEEDS = null;
+public class ModBlocks {
+	public static final Block TOMATO_CROP_BLOCK = null;
 }
