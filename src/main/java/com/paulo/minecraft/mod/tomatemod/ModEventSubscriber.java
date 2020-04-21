@@ -1,8 +1,6 @@
 package com.paulo.minecraft.mod.tomatemod;
 
-import com.paulo.minecraft.mod.tomatemod.init.ModBlocks;
 import com.paulo.minecraft.mod.tomatemod.init.ModItemGroups;
-import com.paulo.minecraft.mod.tomatemod.seed.TomatoSeedItem;
 
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
